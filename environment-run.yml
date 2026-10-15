@@ -1,0 +1,8 @@
+name: geo14
+channels:
+  - defaults
+dependencies:
+  - python=3.12.9
+  - pip
+  - pip:
+      - -r requirements-run.txt
